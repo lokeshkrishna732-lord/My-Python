@@ -1,0 +1,15 @@
+# user definition function
+def details():
+    name=input("enter your name ")
+    age=int(input("enter the age "))
+    roll_number=int(input("enter the roll number "))
+    addition=age+roll_number
+    print("the sum is: ",addition)
+    multiplication=age*roll_number
+    print("the multiplication is: ",multiplication)
+details()
+enter your name lord
+enter the age 18
+enter the roll number 41
+the sum is:  59
+the multiplication is:  738
