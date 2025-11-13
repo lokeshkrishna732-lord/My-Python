@@ -4,3 +4,6 @@ def oddeven(a):
    print("even")
   else:
     print("odd")
+import krishna
+krishna.oddeven(9)
+odd
